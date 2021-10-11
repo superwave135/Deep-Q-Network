@@ -94,7 +94,7 @@ class Agent:
 
         #--------------------------- vectorized version above -----------------------------------------------------
 
-        #-------------------------- tianliang version below ------------------------------------------------------
+        #-------------------------- alternative version below ------------------------------------------------------
         # generate training data set for training the policy net
         minibatch = np.asarray(minibatch)
 
